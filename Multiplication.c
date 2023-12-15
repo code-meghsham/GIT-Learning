@@ -4,7 +4,7 @@ void main (){
     int a;
     int b;
 
-    printf("Give me 2 Number to subtract");
+    printf("Give me 2 Number to multiply");
 
     printf("\nEnter A");
     scanf("%d",&a);
